@@ -1,7 +1,5 @@
 ### 📄 LICENSE (CC BY-NC 4.0)
 
-You can save this as `LICENSE` in your repository root:
-
 ```
 Creative Commons Attribution-NonCommercial 4.0 International
 
