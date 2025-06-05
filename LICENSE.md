@@ -1,4 +1,4 @@
-### 📄 LICENSE (CC BY-NC 4.0)
+LICENSE (CC BY-NC 4.0)
 
 ```
 Creative Commons Attribution-NonCommercial 4.0 International
