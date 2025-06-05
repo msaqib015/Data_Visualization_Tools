@@ -84,5 +84,3 @@ Data\_Visualization\_Tools/
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** License.
 
 > You are free to share and adapt the content for non-commercial use with proper attribution. All visualizations and data are for educational purposes only.
-
----
