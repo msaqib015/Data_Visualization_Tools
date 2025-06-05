@@ -86,11 +86,3 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial 
 > You are free to share and adapt the content for non-commercial use with proper attribution. All visualizations and data are for educational purposes only.
 
 ---
-
-## 🙋‍♂️ Author
-
-**Erric Qirahs**  
-📊 Data Science & Visualization Enthusiast  
-📬 Connect: [LinkedIn](https://www.linkedin.com)
-
-```
